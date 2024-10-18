@@ -1,0 +1,16 @@
+MapName is 'A2v1'
+NbCaseX is 5
+NbCaseY is 6
+
+WaterHeightInLBU is 100
+MaxAltitudeInLBU is 686
+
+MapJuncture is Juncture/Tactic
+MapDecorsSets is [
+    'CommonSet',
+    'Fulda',
+    'NorthTag',
+    'Steelman'
+]
+
+BackgroundSound_MultiTrack is ''
